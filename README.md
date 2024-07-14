@@ -1,5 +1,5 @@
 # loan-prediction
-  
+  refer Documendation.pdf for more detail information
 
 # data
     data.csv: Raw data with a total of 38,480 records and 25 features (excluding the id and repay_fail columns).
