@@ -15,9 +15,11 @@
     remainingdata.csv: Remaining data with 34,926 records and 25 features (excluding the id and repay_fail columns).
 
 # file
-    dataclean.ipynb: Cleans data.csv, saves it as cleanData.csv, takes a random sample of 2,500 records and saves it as Book25features.csv, 
+    dataclean.ipynb:    Cleans data.csv, saves it as cleanData.csv, takes a random sample of 2,500 records and saves it as Book25features.csv, 
                         and saves the remaining data as remainingdata.csv.
+                        
     RF25features.ipynb: Trains a Random Forest model using remainingdata.csv with 25 features and saves the trained model as modelDataInbalance_25features.
+    
     RF9features.ipynb: Uses remainingdata.csv, deletes 16 features, balances the data, trains a Random Forest model with 9 features, and saves the trained model as modelDataBalance_9features.
 
 # model
