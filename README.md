@@ -1,4 +1,4 @@
-# loan-prediction
+# loan-prediction using Random Forest(RF)
     refer Documendation.pdf for more detail information
       note: R1 = reference 1, R2 = reference 2, so on....
 
