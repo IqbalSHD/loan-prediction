@@ -1,6 +1,6 @@
 # loan-prediction
-  refer Documendation.pdf for more detail information
-    note: R1 = reference 1, R2 = reference 2, so on....
+    refer Documendation.pdf for more detail information
+      note: R1 = reference 1, R2 = reference 2, so on....
 
 # data
     data.csv: Raw data with a total of 38,480 records and 25 features (excluding the id and repay_fail columns).
