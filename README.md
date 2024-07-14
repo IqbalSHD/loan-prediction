@@ -30,14 +30,17 @@
 
 # model
     modelDataInbalance_25features: Trained using 34,926 records and 25 features.
+    
     modelDataBalance_9features: Trained using 10,180 records and 9 features.
 
 # gui 
     gui25features.py: GUI using the trained model modelDataInbalance_25features.
+    
     gui9features.py: GUI using the trained model modelDataBalance_9features.
 
 # auto testing sample data
     AutoEvaluation25features.py: Tests sample data Book25features.csv using the trained model modelDataInbalance_25features.
+    
     AutoEvaluation9features.py: Tests sample data Book9features.csv using the trained model modelDataBalance_9features.
 
 
