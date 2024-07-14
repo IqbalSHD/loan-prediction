@@ -1,6 +1,11 @@
 # loan-prediction using Random Forest(RF)
     refer Documendation.pdf for more detail information
       note: R1 = reference 1, R2 = reference 2, so on....
+      
+    how to run:
+    - download github zip file, unzip
+    -  open VScode, "open folder"
+    - all should run smoothly
 
 # data
     data.csv: Raw data with a total of 38,480 records and 25 features (excluding the id and repay_fail columns).
